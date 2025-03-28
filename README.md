@@ -1,5 +1,4 @@
-# FUTURE_ML_03
-This repository will contain code for developing a chatbot for customer support
+
 # Customer Support Chatbot - Model Development & Application
 
 This repository details the model development phase of a customer support chatbot, built using Large Language Models (LLMs) and designed for efficient customer interaction.
